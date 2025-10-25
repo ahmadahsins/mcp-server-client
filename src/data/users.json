@@ -66,5 +66,12 @@
       "zip": "94107",
       "country": "USA"
     }
+  },
+  {
+    "id": 9,
+    "name": "Bahlil",
+    "email": "bahlilbahlul@gmail.com",
+    "address": "Jl. Ambahlil 105",
+    "phone": "081234"
   }
 ]
