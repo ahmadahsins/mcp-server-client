@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "address": "123 Main St",
+    "phone": "555-1234"
+  },
+  {
+    "id": 2,
+    "name": "Jane Doe",
+    "email": "jane.doe@example.com",
+    "address": "456 Elm St",
+    "phone": "555-5678"
+  },
+  {
+    "id": 3,
+    "name": "Bob Smith",
+    "email": "bob.smith@example.com",
+    "address": "789 Oak St",
+    "phone": "555-9876"
+  },
+  {
+    "id": 4,
+    "name": "",
+    "email": "",
+    "address": "",
+    "phone": ""
+  },
+  {
+    "id": 5,
+    "name": "Ozora",
+    "email": "ozora@gmail,com",
+    "address": "onggopatran",
+    "phone": "08123"
+  },
+  {
+    "id": 6,
+    "name": "Rizky Putra",
+    "email": "rizky.putra.216@example.com",
+    "address": "Jalan Merdeka 42, Jakarta, Indonesia",
+    "phone": "+62-812-3456-7890"
+  }
+]
