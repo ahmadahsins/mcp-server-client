@@ -40,5 +40,31 @@
     "email": "rizky.putra.216@example.com",
     "address": "Jalan Merdeka 42, Jakarta, Indonesia",
     "phone": "+62-812-3456-7890"
+  },
+  {
+    "id": 7,
+    "name": "Eleanor M. Hayes",
+    "email": "eleanor.hayes@examplemail.com",
+    "phone": "+1-415-555-0134",
+    "address": {
+      "street": "2483 Marina Vista Drive",
+      "city": "Oakland",
+      "state": "CA",
+      "postalCode": "94607",
+      "country": "USA"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Olivia Ramirez",
+    "email": "olivia.ramirez@example.com",
+    "phone": "+1-415-555-0132",
+    "address": {
+      "street": "1287 Willow Creek Dr",
+      "city": "San Francisco",
+      "state": "CA",
+      "zip": "94107",
+      "country": "USA"
+    }
   }
 ]
